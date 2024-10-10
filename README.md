@@ -1,2 +1,2 @@
 # Delta-demo
-this repository is for practive
+this repository is for practive.
